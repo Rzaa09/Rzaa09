@@ -98,13 +98,8 @@ def logo():
 		os.system("echo 'Mozilla/5.0 (Linux; Android 5.1; OPPO A37f Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36' >> .ua")
 	os.system("clear")
 	print("""            
-  ___________          _____ _____________________
-  \_   _____/         /     \\______   \_   _____/
-   |    __)  ______  /  \ /  \|    |  _/|    __)  
-   |     \  /_____/ /    Y    \    |   \|     \   
-   \___  /          \____|__  /______  /\___  /   
-       \/                   \/       \/     \/ """)
-def bot_komen():
+  Rahmansyah 😜✌️✌️    
+def b
     try:
         token = open('login.txt', 'r').read()
     except IOError:
@@ -758,6 +753,6 @@ def cek_ingfo():
 if __name__ == '__main__':
     os.system('clear')
     logo()
-    print '     [#] Sebentar Lagi Update...'
+    print '     [#] Sebentar Lagi ngocokin tante semok 😳'
     os.system('git pull')
     login()
